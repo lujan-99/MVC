@@ -1,0 +1,1 @@
+C:\Universidad\SIS 457\modelo_vista_controlador\MODEL\x64\Debug\MODEL.vcxproj.AssemblyReference.cache

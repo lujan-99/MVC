@@ -1,0 +1,2 @@
+C:\Universidad\SIS 457\modelo_vista_controlador\CONTROLLER\x64\Debug\CONTROLLER.vcxproj.AssemblyReference.cache
+C:\Universidad\SIS 457\modelo_vista_controlador\CONTROLLER\x64\Debug\CONTROLLER.vcxproj.CopyComplete

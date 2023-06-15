@@ -1,0 +1,5 @@
+C:\Universidad\SIS 457\modelo_vista_controlador\VIEW\x64\Debug\VIEW.vcxproj.AssemblyReference.cache
+C:\Universidad\SIS 457\modelo_vista_controlador\VIEW\x64\Debug\VIEW.vcxproj.SuggestedBindingRedirects.cache
+C:\Universidad\SIS 457\modelo_vista_controlador\VIEW\x64\Debug\VIEW.vcxproj.CopyComplete
+C:\Universidad\SIS 457\modelo_vista_controlador\VIEW\x64\Debug\VIEW.MyForm.resources
+C:\Universidad\SIS 457\modelo_vista_controlador\VIEW\x64\Debug\VIEW.vcxproj.GenerateResource.cache
